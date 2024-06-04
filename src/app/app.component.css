@@ -1,0 +1,10 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .content {
+    margin-top: 20px;
+    text-align: justify;
+  }
+  
